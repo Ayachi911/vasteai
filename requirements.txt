@@ -1,4 +1,6 @@
 streamlit
 Pillow
 numpy
+scikit-learn
+scikit-image
 gTTS
